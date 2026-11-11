@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on<br>Web-Based Applications<br>🌱 I’m currently learning<br>Artificial Intelligence & Data Science & Architectures of Computer Technologies<br>💬 Ask me about<br>C, Java, C++, Python, Web Technologies Basics<br>⚡ Fun fact<br>i love Building Social Impact Systems<br>🌐 Connect With Me<br>Email-rajavk1509@gmail.com
 
 
